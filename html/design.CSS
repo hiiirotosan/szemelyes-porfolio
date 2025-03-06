@@ -1,13 +1,13 @@
-h1{
-   font-size: 100px;
+.cimekh1{
+   font-size: 64px;
    text-align: center;
 }
-h2{
-    font-size: 45px;
+.cimekh2 {
+    font-size: 35px;
     text-align: center;
- }
- h3{
-    font-size: 32px;
+}
+ .cimekh3{
+    font-size: 27px;
     text-align: center;
  }
 .container {
